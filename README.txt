@@ -1,9 +1,5 @@
 #E-Commerce Backend — Products, Categories, Cart & Orders
 
-project link: 
- https://github.com/asmaa77younes-cell/Final-Project.git
-
-
 This is a backend Project I built using: 
   **Node.js**
   **Express.js**
