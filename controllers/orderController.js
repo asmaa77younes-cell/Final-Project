@@ -59,7 +59,7 @@ exports.checkout = asyncHandler(async (req, res) =>{
 
     res.status(201).json({
         status : "success",
-        message : "Order created successfully",
+        message : "Order added successfully",
         data : order,
     });
 });
