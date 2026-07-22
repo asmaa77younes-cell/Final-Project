@@ -5,7 +5,7 @@ if(!process.env.MONGO_URI){
 }
 
 if(!process.env.PORT){
-  console.log("Port not found, we will use the virtual port = 3000")
+  console.log("Port not found, we will use the virtual port = 3000")n
 }
 
 const config = {
